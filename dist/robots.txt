@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://treasure-trove-resort-events.right-cow-0993.chatgpt.site/sitemap.xml
