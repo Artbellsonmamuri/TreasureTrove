@@ -23,4 +23,4 @@ The inquiry form prepares an email or Messenger message for the visitor to send.
 
 Published site: https://treasure-trove-resort-events.right-cow-0993.chatgpt.site
 
-This is a local Git repository. No remote hosting service has been configured.
+The source is hosted on GitHub at https://github.com/Artbellsonmamuri/TreasureTrove.
